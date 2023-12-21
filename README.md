@@ -47,7 +47,7 @@ public interface PatientRepository extends JpaRepository<Patient, Long> {
 - **Configuração do Banco de Dados:** O projeto está configurado para usar um banco de dados embutido (H2) por padrão.
   Você pode ajustar as configurações do banco de dados no arquivo application.properties se necessário.
   
-- **Execução do Projeto:**Execute a aplicação Spring Boot. A classe principal é Application.java.
+- **Execução do Projeto:** Execute a aplicação Spring Boot. A classe principal é Application.java.
   Após a execução, a aplicação estará disponível em http://localhost:8080.
   
 - **Testando a API:** Utilize ferramentas como o Postman ou o cURL para testar as operações da API. Os endpoints estão definidos no PatientController.
