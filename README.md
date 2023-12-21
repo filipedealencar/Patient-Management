@@ -72,5 +72,3 @@ O código-fonte do projeto front-end relacionado a este projeto está disponíve
 ## Contribuições
 
 Contribuições são bem-vindas! Se você encontrar problemas, bugs ou melhorias potenciais, sinta-se à vontade para abrir uma issue ou enviar um pull request.
-
-Obrigado por explorar o Weather Hub! Esperamos que tenha uma experiência agradável.
